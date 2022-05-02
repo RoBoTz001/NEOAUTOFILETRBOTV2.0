@@ -72,7 +72,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/DeezuzzaDz1988/NEOAUTOFILETRBOTV2.0)
+<a href="https://heroku.com/deploy?template=https://github.com/DeezuzzaDz1988/LEO)
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
