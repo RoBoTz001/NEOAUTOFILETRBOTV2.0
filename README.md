@@ -77,7 +77,7 @@ You can deploy this bot anywhere.
 </a>
 </p>
 </details>
-
+[![name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RoBoTz001/NEOAUTOFILETRBOTV2.0)
 <details><summary>Deploy to VPS</summary>
 <p>
 <pre>
